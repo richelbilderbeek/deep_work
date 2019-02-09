@@ -18,10 +18,24 @@ is an associate professor of computer science (with tenure)[1] at Georgetown Uni
 and the author of six self-improvement books. 
 He also writes the Study Hacks blog focused on academic and career success.[2] 
 
-
 ## The Idea
 
- * Deep work is valuable, rare, meaningful
+> Deep work: professional activities performed in a state of
+> distraction-free concentration that push your cognitive
+> abilities to their limit. These efforts create new value,
+> improve your skill, and are hard to replicate   
+
+> Shallow work: noncognitively demanding, logistical-style
+> tasks, often performed while distracted. These efforts
+> tend to not create much new value in the world and are
+> easy to replicate
+
+> The Deep Work Hypothesis: the ability to perform deep 
+> work is becoming increasingly rare at exactly the same
+> time it is becoming increasingly valuable in our
+> economy. As a consequence, the few who cultivate this
+> skill, and then make it the core of their working life,
+> will thrive.
 
 ## The Rules
 
