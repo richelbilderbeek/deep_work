@@ -53,3 +53,72 @@ The Deep Work Hypothesis
 > skill, and then make it the core of their working life,
 > will thrive.
 
+Overview
+========================================================
+
+         |**Much value** | **Little value**
+---------|-----------|-------------
+**Work**     |  ? | ?
+**Free time**|  ?   | ?
+
+Overview
+========================================================
+
+         |**Much value** | **Little value**
+---------|-----------|-------------
+**Work**     |Deep Work  | Shallow work
+**Free time**|Boredom    | Social media
+
+A day
+========================================================
+
+![](schedule_1.png)
+
+A working day (naive)
+========================================================
+
+![](schedule_2.png)
+
+ * Support your work
+
+A working day with lunch (naive)
+========================================================
+
+![](schedule_3.png)
+
+ * Determine your depth strategy
+
+A working day with distractions
+========================================================
+
+![](schedule_4.png)
+
+ * Quantify depth (max 4 hours of Deep Work per day)
+ * Become hard to reach
+
+A partitioned working day (naive)
+========================================================
+
+![](schedule_5.png)
+
+ * Be lazy: downtime aids insights
+
+A humane working day (naive)
+========================================================
+
+![](schedule_6.png)
+
+ * Quit social media
+ * Embrace boredom
+ * Fininsh you work by five thirty
+
+
+A Deep Work day
+========================================================
+
+![](schedule_7.png)
+
+Conclusions
+========================================================
+
+ * ?

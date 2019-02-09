@@ -74,6 +74,7 @@
 
 .reveal section img {
    border: none;
+   box-shadow: none;
 }
 
 .reveal section .fieldError {
@@ -218,29 +219,33 @@
 
 
 .reveal table {
-  border-width: 1px;
-  border-spacing: 2px;
-  border-style: dotted;
-  border-color: gray;
+  border-width: 5px;
+  border-spacing: 20px;
+  border-style: solid;
+  border-color: black;
   border-collapse: collapse;
-  font-size: 0.7em;
+  font-size: 1.3em;
 }
 
 .reveal table th {
   border-width: 1px;
-  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
   padding-right: 25px;
   font-weight: bold;
-  border-style: dotted;
-  border-color: gray;
+  border-style: solid;
+  border-color: black;
 }
 
 .reveal table td {
   border-width: 1px;
-  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
   padding-right: 25px;
-  border-style: dotted;
-  border-color: gray;
+  border-style: solid;
+  border-color: black;
 }
 
 .reveal blockquote {
