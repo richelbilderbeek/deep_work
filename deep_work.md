@@ -118,7 +118,30 @@ A Deep Work day
 
 ![](schedule_7.png)
 
-Conclusions
+My conclusions
 ========================================================
 
- * ?
+ * I became four to $\infty$ times more productive
+
+***
+
+![](my_office_2.jpg)
+
+My conclusions
+========================================================
+
+Hardest problems:
+
+ * Social
+ * Fear
+ * Discipline
+ * Internet
+
+***
+
+![](my_rules.jpg)
+
+Questions?
+========================================================
+
+![](cat.jpg)
