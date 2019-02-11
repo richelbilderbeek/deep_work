@@ -5,6 +5,15 @@ date: 2019-02-13
 autosize: true
 css: deep_work.css
 
+A shitty life
+========================================================
+
+ * Fighting temptations all day long, tiredness
+ * Getting little work done, stress
+ * Use free time to still work a bit, guilt
+ * Lack of sleep, worrying
+ * Feeling stupid
+
 Goal
 ========================================================
 
@@ -69,6 +78,20 @@ Overview
 **Work**     |Deep Work  | Shallow work
 **Free time**|Boredom    | Social media
 
+Boredom
+========================================================
+
+> If every moment of potential boredom in your life [...]
+> is relieved with a quick glance at your smartphone,
+> then your brain has likely been rewired to a point where [...]
+> it's not ready for deep work
+
+***
+
+> They [people who multitask all the times] are
+> pretty much mental wrecks.
+> Professor Clifford Nass
+
 A day
 ========================================================
 
@@ -77,40 +100,29 @@ A day
 A working day (naive)
 ========================================================
 
-![](schedule_2.png)
-
- * Support your work
-
-A working day with lunch (naive)
-========================================================
-
 ![](schedule_3.png)
 
- * Determine your depth strategy
-
-A working day with distractions
-========================================================
-
-![](schedule_4.png)
-
- * Quantify depth (max 4 hours of Deep Work per day)
- * Become hard to reach
+ * Quantify depth of your work
+ * Plan four hours of uninterrupted deep work per day
+ * Finish your work at five thirty
 
 A partitioned working day (naive)
 ========================================================
 
 ![](schedule_5.png)
 
- * Be lazy: downtime aids insights
+ * Become hard to reach
+ * Ritualize: where to work and how long
+
 
 A humane working day (naive)
 ========================================================
 
 ![](schedule_6.png)
 
- * Quit social media
- * Embrace boredom
- * Finish you work by five thirty
+ * Downtime aids insight
+ * Ritualize: how you'll work once you start working
+ * Ritualize: how you'll support your work
 
 
 A Deep Work day
@@ -118,28 +130,53 @@ A Deep Work day
 
 ![](schedule_7.png)
 
+ * Schedule every minute of your day
+ * Ritualize: have a shutdown ritual
+
+Things I learned
+========================================================
+
+ * Four hours of focus per day
+ * Limited amount of decisions per day
+ * Boredom = recharging
+
+Criticism
+========================================================
+
+ * Some anecdotal evidence
+
 My conclusions
 ========================================================
 
  * I became four to $\infty$ times more productive
+ * I started feeling work as something relaxing
 
 ***
 
 ![](my_office_2.jpg)
 
-My conclusions
+Getting started
 ========================================================
 
-Hardest problems:
+ * Focus on the lead measures
+ * Make grand gestures
+ * Don't work alone
 
- * Social
- * Fear
- * Discipline
- * Internet
+Me: set a goal so low, you are sure to achieve it.
 
 ***
 
 ![](my_rules.jpg)
+
+A good life
+========================================================
+
+ * Keeping temptations at bay
+ * Getting much high-quality work done
+ * Free time is really free
+ * Sleep well
+ * Feeling comfortable with oneself
+
 
 Questions?
 ========================================================
