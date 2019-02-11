@@ -110,7 +110,7 @@ A humane working day (naive)
 
  * Quit social media
  * Embrace boredom
- * Fininsh you work by five thirty
+ * Finish you work by five thirty
 
 
 A Deep Work day
