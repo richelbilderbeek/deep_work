@@ -48,20 +48,6 @@ Shallow Work
 > tend to not create much new value in the world and are
 > easy to replicate
 
-The Deep Work Hypothesis
-========================================================
-
-> The ability to perform deep
-> work is becoming increasingly rare at exactly the same
-> time it is becoming increasingly valuable in our
-> economy.
-
-***
-
-> As a consequence, the few who cultivate this
-> skill, and then make it the core of their working life,
-> will thrive.
-
 Overview
 ========================================================
 
@@ -133,23 +119,11 @@ A Deep Work day
  * Schedule every minute of your day
  * Ritualize: have a shutdown ritual
 
-Things I learned
-========================================================
-
- * Four hours of focus per day
- * Limited amount of decisions per day
- * Boredom = recharging
-
-Criticism
-========================================================
-
- * Some anecdotal evidence
-
 My conclusions
 ========================================================
 
- * I became four to $\infty$ times more productive
- * I started feeling work as something relaxing
+ * Do four-$\infty$ more
+ * Work feels relaxing
 
 ***
 
@@ -158,11 +132,9 @@ My conclusions
 Getting started
 ========================================================
 
- * Focus on the lead measures
- * Make grand gestures
- * Don't work alone
+ * Focus on lead measures
 
-Me: set a goal so low, you are sure to achieve it.
+Me: build up gradually
 
 ***
 
@@ -171,7 +143,7 @@ Me: set a goal so low, you are sure to achieve it.
 A good life
 ========================================================
 
- * Keeping temptations at bay
+ * Resisting temptations at bay
  * Getting much high-quality work done
  * Free time is really free
  * Sleep well
