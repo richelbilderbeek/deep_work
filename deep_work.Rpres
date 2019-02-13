@@ -5,26 +5,29 @@ date: 2019-02-13
 autosize: true
 css: deep_work.css
 
+https://github.com/richelbilderbeek/deep_work ![](CC-BY-NC-SA.png)
+
 A shitty life
 ========================================================
 
- * Fighting temptations all day long, tiredness
- * Getting little work done, stress
- * Use free time to still work a bit, guilt
- * Lack of sleep, worrying
+ * Tiredness
+ * Stress
+ * Guilt
+ * Work in evening
+ * Worry in bed
  * Feeling stupid
 
 Goal
 ========================================================
 
-- What is Deep Work?
+- What is deep work?
 - How to achieve it
 
 ***
 
 ![](deep_work_cover.jpeg)
 
-Deep Work
+Deep work
 ========================================================
 
 > Professional activities performed in a state of
@@ -36,7 +39,7 @@ Deep Work
 > These efforts create new value,
 > improve your skill, and are hard to replicate
 
-Shallow Work
+Shallow work
 ========================================================
 
 > Noncognitively demanding, logistical-style
@@ -61,7 +64,7 @@ Overview
 
          |**Much value** | **Little value**
 ---------|-----------|-------------
-**Work**     |Deep Work  | Shallow work
+**Work**     |Deep work  | Shallow work
 **Free time**|Boredom    | Social media
 
 Boredom
@@ -134,8 +137,6 @@ Getting started
 
  * Focus on lead measures
 
-Me: build up gradually
-
 ***
 
 ![](my_rules.jpg)
@@ -143,12 +144,11 @@ Me: build up gradually
 A good life
 ========================================================
 
- * Resisting temptations at bay
- * Getting much high-quality work done
- * Free time is really free
+ * Relaxed
+ * Quality
+ * Free = free
  * Sleep well
- * Feeling comfortable with oneself
-
+ * Comfortable with self
 
 Questions?
 ========================================================

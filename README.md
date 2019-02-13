@@ -2,6 +2,10 @@
 
 Presentation about Deep Work.
 
+ * [Download](https://www.richelderbeek.nl/deep_work_20190212.ogv)
+ * [YouTube](https://youtu.be/NqdOM-5oya0)
+ * [Download older version](https://www.richelderbeek.nl/deep_work_20190210.ogv)
+
 ## The book
 
 Deep Work, by Cal Newport
